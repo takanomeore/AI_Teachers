@@ -1,0 +1,34 @@
+body{
+    margin:0;
+}
+
+.settings{
+    padding:5%;
+    background-color:aquamarine;
+}
+
+.parameter{
+    margin:0;
+    padding:0;
+}
+
+.who_student{
+    width:50%;
+    background-color:cornflowerblue;
+    display:block;
+}
+
+.what_subject{
+    width:50%;
+    background-color:lightgreen;
+}
+
+.who_tutor{
+    width:50%;
+    background-color:darkkhaki;
+}
+
+.tutorInfo{
+    margin:5%;
+    background-color:azure
+}
